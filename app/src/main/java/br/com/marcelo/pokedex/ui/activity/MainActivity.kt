@@ -1,4 +1,4 @@
-package br.com.marcelo.pokedex.activity
+package br.com.marcelo.pokedex.ui.activity
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
